@@ -1,6 +1,6 @@
 # Overview
 
-This Hello World program was designed to test the functionality between a programming language, an integrated development environment (IDE), and a version control system (VCS) to ensure they are working together properly. This software uses Python, VS Code, and Git / GitHub to accomplish this task.
+This simple Hello World program was designed to test functionality between Python, Visual Studio Code, and Git/GitHub to ensure they work together properly. It demonstrates how to create a repository on Git using Visual Studio Code.
 
 [Program Demo Video](https://www.loom.com/share/93d114dc4aad4cfca6ce6feb61dcd2cd?sid=efdfd51d-6674-4214-87f8-223c856ded8c)
 
